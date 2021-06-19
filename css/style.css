@@ -7,7 +7,7 @@
     --h-transparent-white: hsla(0, 0%, 100%, 0.6);
     --font1: Inter;
     --font2: "Lexend Deca";
-    --header-img: url("/images/image-header-mobile.jpg");
+    --header-img: url("/stats-preview-card-component/images/image-header-mobile.jpg");
 }
 
 body {
@@ -124,7 +124,7 @@ img {
 
 @media only screen and (min-width:910px) {
     :root {
-        --header-img: url("/images/image-header-desktop.jpg");
+        --header-img: url("/stats-preview-card-component/images/image-header-desktop.jpg");
     }
     body {
         text-align: left;
